@@ -47,6 +47,7 @@ A curated list of awesome job boards. If you want to support my work, you can bu
 - [wellfound](https://wellfound.com/jobs)
 - [Levels.fyi](https://levels.fyi/jobs)
 - [X jobs](https://twitter.com/jobs)
+- [jobswithgpt](https://jobswithgpt.com)
 
 ## AI
 
